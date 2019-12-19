@@ -3,7 +3,6 @@
 # Lab | List Comprehensions
 
 
-[Dic19][<MiguelGaMe>]<lab-list-comprehensions>
 ## Introduction
 
 As you have learned in the List Comprehension lesson, list comprehensions allow you to efficiently perform iteration, storage, and even filtering based on conditional statements. List comprehensions are useful for a variety of things, so it is critical that you get sufficient practice and become skilled at identifying when to use them.
